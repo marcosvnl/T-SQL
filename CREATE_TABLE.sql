@@ -1,0 +1,1 @@
+ALTER TABLE [dbo].[Order] ADD CompanieId INT FOREIGN KEY REFERENCES [dbo].[Companies] (Id)

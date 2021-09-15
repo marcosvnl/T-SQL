@@ -1,0 +1,1 @@
+ALTER TABLE [dbo].[Order] DROP COLUMN [UnitId];

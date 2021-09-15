@@ -1,0 +1,1 @@
+SELECT * INTO tb_ClenteBackup FROM tb_Clientes
